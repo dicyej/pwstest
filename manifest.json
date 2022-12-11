@@ -9,13 +9,15 @@
   "short_name": "dicyej.github",
   "start_url": "/dicyej.github.io/pwstest/",
   "theme_color": "#ffffff",
-  "categories": [],
-  "screenshots": [],
   "categories": [
     "books",
     "business",
     "education"
   ],
+  "screenshots": [],
+  "display_override": [
+    "browser"
+  ]
   "icons": [
     {
       "src": "images/71x71.png",
@@ -689,6 +691,5 @@
       "sizes": "1024x1024",
       "purpose": "any"
     }
-  ],
-  "screenshots": []
+  ]
 }
