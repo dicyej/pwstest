@@ -11,6 +11,11 @@
   "theme_color": "#ffffff",
   "categories": [],
   "screenshots": [],
+  "categories": [
+    "books",
+    "business",
+    "education"
+  ],
   "icons": [
     {
       "src": "images/71x71.png",
